@@ -224,7 +224,7 @@ desconhecido.
 
 ## Autor
 
-**Flash Informática**
+**Pedro Oliveira**
 
 Projeto desenvolvido para integração do pedal USB FS-01 com aplicações
 de câmera no Windows.
