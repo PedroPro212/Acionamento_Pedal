@@ -6,7 +6,7 @@ dispositivo HID e, ao detectar o acionamento do pedal, envia a tecla
 **Espaço** ao Windows, permitindo realizar o disparo sem utilizar o
 mouse.
 
-Desenvolvido pela **Flash Informática**.
+Desenvolvido pela **Programação Diária** e **Flash Informática**.
 
 ## Funcionalidades
 
